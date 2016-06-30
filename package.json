@@ -1,0 +1,17 @@
+{
+  "name": "eslint-config-ahallden",
+  "version": "1.0.0",
+  "description": "My preferred eslint configuration of rules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint",
+    "config",
+    "es6",
+    "es2015"
+  ],
+  "author": "Albin Halldén albinhallden@gmail.com (http://ahallden.se)",
+  "license": "MIT"
+}
