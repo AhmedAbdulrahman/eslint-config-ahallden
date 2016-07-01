@@ -1,11 +1,11 @@
 # eslint-config-ahallden
 
-This is my preferred rules and setting for development. Also supporting es2015.
+This is my preferred eslint configuration for development. Also supporting es2015.
 
 To get started:
 - `npm install eslint-config-ahallden`
 
-And extend eslint configuration in your local `.eslintrc`
+And extend eslint configuration in your local `.eslintrc`:
 
 ```
 {
